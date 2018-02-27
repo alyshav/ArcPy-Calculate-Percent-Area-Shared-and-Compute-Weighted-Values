@@ -1,4 +1,4 @@
-# Calculate Percent Area Shared between 2 input shapefile features and Compute Weighted Values
+# Calculate Percent Area Shared between Input Shapefile Features and Compute Weighted Values
 
 **Purpose: use Arcpy & numpy to compute percent area shared between each feature contained in 2 input shapefiles**
 
